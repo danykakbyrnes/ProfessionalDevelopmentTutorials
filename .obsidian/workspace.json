@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Building your Personal Brand Tutorial.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building your Personal Brand Tutorial.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building your Personal Brand Tutorial.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building your Personal Brand Tutorial.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "4b9a5ce7937341c4",
   "lastOpenFiles": [
-    "README.md",
     "Building your Personal Brand Tutorial.md",
+    "README.md",
     "Welcome.md"
   ]
 }
