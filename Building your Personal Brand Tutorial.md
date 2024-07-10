@@ -1,7 +1,9 @@
 **The What, Why, and How of Building Your Personal Research Brand Worksheet**
 
 *Originally created by Jeremy Patterson, Nicole Lane, Xinxin Sui, and Danyka Byrnes*
+
 *Edited by Danyka Byrnes*
+
 # What is a personal brand?
  A personal brand is simply the collection of your skills, experiences, and philosophy you bring to your research and workplace. Whether you are intentional about your curating your brand or not, people's interpretation of your research portfolio and their interactions with you are going to contribute to your brand. Since it will inevitably be built for you, you might as well play a part in shaping it.
 
