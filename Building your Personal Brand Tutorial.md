@@ -18,10 +18,12 @@ Researchers from notable labs will struggle a lot less with this. I have noticed
 Through interactive worksheets, you should have the following completed tasks:
 
 1. Prompts helped you identified your unique skills and strengths that can be leveraged to define your personal brand.
+
 2. Identified concrete strategies and developed a plan to further build your current research brand.
+
 3. Built a preliminary plan to start generating content to promote your brand.
 
-### Finding Mentors and exploring influences
+### Finding mentors and exploring influences
 
 1. Who are the "big names" in your field? How do they label themselves and what tools do they use to communicate their messages?
 
@@ -112,4 +114,4 @@ Through interactive worksheets, you should have the following completed tasks:
 - [How do you make social media algorithms work for you?](https://www.linkedin.com/advice/3/how-do-you-make-social-media-algorithms)
 - [Best Time to Post on Social Media in 2023 [ALL NETWORKS]](https://blog.hootsuite.com/best-time-to-post-on-social-media/)
 
-This worksheet was originally created guide co-working session attendees through the practical parts of the _The What, Why, and How of Building Your Personal Research Brand_ webinar hosted on October 12th, 2023. Recording found here: [Navigating Academic Waters: The What, Why, and How of Building Your Personal Research Brand](https://www.youtube.com/watch?v=sDdmxYy6MLg)
+This worksheet was originally created as a guide for the co-working session of the _The What, Why, and How of Building Your Personal Research Brand_ webinar hosted on October 12th, 2023. Recording found here: [Navigating Academic Waters: The What, Why, and How of Building Your Personal Research Brand](https://www.youtube.com/watch?v=sDdmxYy6MLg)
