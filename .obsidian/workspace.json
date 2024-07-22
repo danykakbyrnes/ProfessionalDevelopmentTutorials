@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4dd8008a14ea579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crafting Your Elevator Pitch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "94caae07a490baa8",
@@ -101,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9a5ce7937341c4",
+  "active": "1c7952f5487bd162",
   "lastOpenFiles": [
-    "Building your Personal Brand Tutorial.md",
+    "Crafting Your Elevator Pitch.md",
     "README.md",
+    "Building your Personal Brand Tutorial.md",
     "Welcome.md"
   ]
 }
