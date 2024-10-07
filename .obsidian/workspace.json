@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data management + science resources.md",
+                "file": "Geoscience data management +data science learning resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geoscience data management +data science learning resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geoscience data management +data science learning resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geoscience data management +data science learning resources.md"
+              }
             }
           }
         ]
@@ -161,9 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fe8bbc875fa09ec",
+  "active": "1962d447d3c23d99",
   "lastOpenFiles": [
-    "Data management + science resources.md",
+    "Geoscience data management +data science learning resources.md",
     "Untitled.md",
     "README.md",
     "Crafting Your Elevator Pitch.md",
