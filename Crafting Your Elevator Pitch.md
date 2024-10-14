@@ -1,5 +1,5 @@
 Whenever I am introduced to new people, they often want to know who I am and what I do. Whether in a professional or personal setting, it's always handy to have a few memorized lines to succinctly describe your work. Elevator pitches are a brief but impactful way to convey who you are in a professional capacity.
-## ### Why Use Elevator Pitches?
+## Why Use Elevator Pitches?
 Elevator pitches are versatile tools that can be tailored based on your audience: laypeople, individuals with a technical background in unrelated fields, or scientists in your field. The information relevant to each group differs significantly. For instance, while a layperson might not be interested in the specific methods you use, a fellow data scientist might find that detail fascinating.
 ## Structure of an elevator pitch
 Elevator pitches typically follow a simple structure:
