@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crafting Your Elevator Pitch.md",
+                "file": "Geoscience data management + data science learning resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crafting Your Elevator Pitch.md",
+                "file": "Geoscience data management + data science learning resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crafting Your Elevator Pitch.md",
+                "file": "Geoscience data management + data science learning resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crafting Your Elevator Pitch.md"
+                "file": "Geoscience data management + data science learning resources.md"
               }
             }
           }
@@ -160,12 +160,13 @@
   },
   "active": "1c7952f5487bd162",
   "lastOpenFiles": [
+    "Example Project Open Data Sharing.md",
     "Geoscience data management + data science learning resources.md",
-    "data management.md",
     "Data visualization learning tools.md",
+    "Crafting Your Elevator Pitch.md",
+    "data management.md",
     "PythonDatavizChallenge Mapping and Data Visualization with Python in 30 Days.md",
     "README.md",
-    "Crafting Your Elevator Pitch.md",
     "Building your Personal Brand Tutorial.md",
     "Welcome.md"
   ]
